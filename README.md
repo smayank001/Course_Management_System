@@ -16,4 +16,14 @@ Make sure you have the following installed on your system:
 Clone the repository using Git:  
 
 ```bash
-git clone <repository-url>
+git clone
+
+📂 2️⃣ Navigate to the Project Directory
+
+📦 3️⃣ Install Dependencies
+npm install
+
+▶️ 4️⃣ Start the Development Server
+npm run dev
+
+
