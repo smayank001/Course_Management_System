@@ -1,13 +1,3 @@
-# <Project Name>
-
-A brief description of your project goes here. Explain what it does, its purpose, or its key features in 1-2 sentences.
-
-## 📋 Overview
-
-Provide a quick summary or context about the project. For example:
-
-"This is a [type of project, e.g., web app, CLI tool] built with [technologies, e.g., Node.js, React] to [purpose, e.g., simplify task X]."
-
 ## 📌 Prerequisites
 
 Before setting up the project, ensure the following are installed on your system:
