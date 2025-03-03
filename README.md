@@ -32,7 +32,7 @@ Follow these steps to get the project running locally:
 Clone the repository to your machine:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/smayank001/Course_Management_System.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
@@ -40,7 +40,7 @@ git clone https://github.com/<your-username>/<repository-name>.git
 Move into the project folder:
 
 ```bash
-cd <repository-name>
+cd Course_Management_System
 ```
 
 ### 3️⃣ Install Dependencies
@@ -65,7 +65,7 @@ Once running, open your browser to `http://localhost:3000` (or the port specifie
 
 Provide instructions on how to use the project once it’s running. For example:
 
-- Visit `http://localhost:3000` and follow the on-screen prompts.
+- Visit `http://localhost:5173` and follow the on-screen prompts.
 - Run `npm run build` to create a production build.
 
 ## 🤝 Contributing
@@ -92,12 +92,4 @@ Contributions are welcome! To contribute:
 - **Error during `npm install`**: Ensure Node.js is installed and your internet connection is active.
 - **Port already in use**: Change the port by modifying the startup script in `package.json` or stopping the conflicting process.
 
-## 📜 License
 
-This project is licensed under the MIT License (or specify another license if applicable).
-
-## 🔧 Customization Tips
-
-- **Project Name & Description**: Replace `<Project Name>` and the description placeholders with your project’s specifics.
-- **Repository URL**: Update the `git clone` URL with your actual GitHub repo link (e.g., `https://github.com/your-username/your-repo.git`).
-- **Additional Sections**: Add "Features," "Tech Stack," or "Acknowledgments" if desired.
